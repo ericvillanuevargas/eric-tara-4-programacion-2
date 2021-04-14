@@ -1,0 +1,13 @@
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\bin\Debug\netcoreapp3.1\tarea 4 programacion.exe
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\bin\Debug\netcoreapp3.1\tarea 4 programacion.deps.json
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\bin\Debug\netcoreapp3.1\tarea 4 programacion.runtimeconfig.json
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\bin\Debug\netcoreapp3.1\tarea 4 programacion.runtimeconfig.dev.json
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\bin\Debug\netcoreapp3.1\tarea 4 programacion.dll
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\bin\Debug\netcoreapp3.1\tarea 4 programacion.pdb
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\obj\Debug\netcoreapp3.1\tarea 4 programacion.csprojAssemblyReference.cache
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\obj\Debug\netcoreapp3.1\tarea 4 programacion.AssemblyInfoInputs.cache
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\obj\Debug\netcoreapp3.1\tarea 4 programacion.AssemblyInfo.cs
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\obj\Debug\netcoreapp3.1\tarea 4 programacion.csproj.CoreCompileInputs.cache
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\obj\Debug\netcoreapp3.1\tarea 4 programacion.dll
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\obj\Debug\netcoreapp3.1\tarea 4 programacion.pdb
+C:\Users\Eric Villanueva\Desktop\tarea 4 programacion\tarea 4 programacion\obj\Debug\netcoreapp3.1\tarea 4 programacion.genruntimeconfig.cache
